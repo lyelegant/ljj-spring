@@ -1,4 +1,4 @@
-package cn.ljj.springframework.test.test.bean;
+package cn.ljj.springframework.test.bean;
 
 public class UserService {
 

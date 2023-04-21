@@ -1,4 +1,4 @@
-package cn.ljj.springframework.test.test;
+package cn.ljj.springframework.test;
 
 import cn.ljj.springframework.beans.PropertyValue;
 import cn.ljj.springframework.beans.PropertyValues;
@@ -6,8 +6,8 @@ import cn.ljj.springframework.beans.factory.config.BeanDefinition;
 import cn.ljj.springframework.beans.factory.config.BeanReference;
 import cn.ljj.springframework.beans.factory.support.DefaultListableBeanFactory;
 import cn.ljj.springframework.beans.factory.xml.XmlBeanDefinitionReader;
-import cn.ljj.springframework.test.test.bean.UserDao;
-import cn.ljj.springframework.test.test.bean.UserService;
+import cn.ljj.springframework.test.bean.UserDao;
+import cn.ljj.springframework.test.bean.UserService;
 import org.junit.Test;
 
 /**
